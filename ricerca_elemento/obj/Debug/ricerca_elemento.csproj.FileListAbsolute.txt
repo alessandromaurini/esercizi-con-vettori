@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\ricerca_elemento\bin\Debug\ricerca_elemento.exe.config
+C:\Users\Utente\Desktop\ricerca_elemento\bin\Debug\ricerca_elemento.exe
+C:\Users\Utente\Desktop\ricerca_elemento\bin\Debug\ricerca_elemento.pdb
+C:\Users\Utente\Desktop\ricerca_elemento\obj\Debug\ricerca_elemento.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\ricerca_elemento\obj\Debug\ricerca_elemento.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\ricerca_elemento\obj\Debug\ricerca_elemento.exe
+C:\Users\Utente\Desktop\ricerca_elemento\obj\Debug\ricerca_elemento.pdb
+C:\Users\Utente\Desktop\ricerca_elemento\obj\Debug\ricerca_elemento.exe.config
