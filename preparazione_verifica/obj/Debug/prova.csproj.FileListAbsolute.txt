@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\prova\bin\Debug\prova.exe.config
+C:\Users\Utente\Desktop\prova\bin\Debug\prova.exe
+C:\Users\Utente\Desktop\prova\bin\Debug\prova.pdb
+C:\Users\Utente\Desktop\prova\obj\Debug\prova.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\prova\obj\Debug\prova.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\prova\obj\Debug\prova.exe
+C:\Users\Utente\Desktop\prova\obj\Debug\prova.pdb
+C:\Users\Utente\Desktop\prova\obj\Debug\prova.exe.config
